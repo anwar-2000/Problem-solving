@@ -1,7 +1,5 @@
 //which server is DOWN among the servers ...
 
-
-
     function whatServerIsDown(numberofservers, servers) {
         var frequency = {};
     
