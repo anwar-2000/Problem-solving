@@ -1,4 +1,4 @@
-class ListNode {
+export class ListNode {
   val: any;
   next: ListNode | null;
   constructor(val: any) {

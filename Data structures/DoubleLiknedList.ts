@@ -1,7 +1,7 @@
 class NodeClass {
     val: any;
     next: NodeClass | null;
-    prev : NodeClass | null
+    prev : NodeClass | null;
     constructor(val: any) {
       this.val = val;
       this.next = null;
